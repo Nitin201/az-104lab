@@ -1,1 +1,1 @@
-# az-104lab
+# az-104labs solutions
